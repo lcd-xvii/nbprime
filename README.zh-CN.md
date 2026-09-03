@@ -27,30 +27,6 @@
 
 ![](/images/primetcc-example.jpg)
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
-  <defs>
-    <linearGradient id="calcBody" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#333;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#111;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect x="25" y="20" width="150" height="160" rx="15" fill="url(#calcBody)" stroke="#666" stroke-width="2" />
-  <rect x="45" y="35" width="110" height="50" rx="6" fill="#e7e2e2" opacity="0.8" />
-  <text x="100" y="70" font-family="monospace" font-size="28" font-weight="bold" fill="#201c1c" text-anchor="middle" dominant-baseline="middle">Nbprime</text>
-  <circle cx="55" cy="115" r="8" fill="#aaa" />
-  <circle cx="85" cy="115" r="8" fill="#aaa" />
-  <circle cx="115" cy="115" r="8" fill="#aaa" />
-  <circle cx="145" cy="115" r="8" fill="#f44336" />
-  <circle cx="55" cy="140" r="8" fill="#aaa" />
-  <circle cx="85" cy="140" r="8" fill="#aaa" />
-  <circle cx="115" cy="140" r="8" fill="#aaa" />
-  <circle cx="145" cy="140" r="8" fill="#ff9800" />
-  <circle cx="55" cy="165" r="8" fill="#aaa" />
-  <circle cx="85" cy="165" r="8" fill="#aaa" />
-  <circle cx="115" cy="165" r="8" fill="#aaa" />
-  <circle cx="145" cy="165" r="8" fill="#2196f3" />
-</svg>
-
 ## 我想要快速开始！
 
 ### 环境要求
