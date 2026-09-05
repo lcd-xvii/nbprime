@@ -31,7 +31,7 @@ The project is currently in its early stages, with a basic binary loader prototy
 ## I want to get started quickly!
 
 ### Requirements
-- A Prime calculator (**hardware revision G1, firmware version 20250925**)
+- A Prime calculator (**hardware revision G1, firmware version 20250915**)
 - USB data cable
 - PC toolchain: `arm-none-eabi-gcc`, `make`, `python3`
 
