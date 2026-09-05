@@ -93,7 +93,7 @@ Please read [`CONTRIBUTING.md`](contributing.md) first.
 
 ## Q&A
 
-**Q: My Prime is not G1 or its firmware is not 20250925 – can I still use it?**  
+**Q: My Prime is not G1 or its firmware is not 20250915 – can I still use it?**  
 A: Currently only the above hardware and firmware versions are supported. Contributions to adapt other versions are welcome.
 
 **Q: Will flashing affect the original system?**  
